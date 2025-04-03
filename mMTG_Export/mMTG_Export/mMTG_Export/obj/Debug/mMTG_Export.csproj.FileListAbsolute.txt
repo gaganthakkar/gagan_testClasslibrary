@@ -1,0 +1,6 @@
+C:\Users\gagan\source\repos\gagan_testClasslibrary\mMTG_Export\mMTG_Export\mMTG_Export\bin\Debug\mMTG_Export.dll
+C:\Users\gagan\source\repos\gagan_testClasslibrary\mMTG_Export\mMTG_Export\mMTG_Export\bin\Debug\mMTG_Export.pdb
+C:\Users\gagan\source\repos\gagan_testClasslibrary\mMTG_Export\mMTG_Export\mMTG_Export\obj\Debug\mMTG_Export.csproj.AssemblyReference.cache
+C:\Users\gagan\source\repos\gagan_testClasslibrary\mMTG_Export\mMTG_Export\mMTG_Export\obj\Debug\mMTG_Export.csproj.CoreCompileInputs.cache
+C:\Users\gagan\source\repos\gagan_testClasslibrary\mMTG_Export\mMTG_Export\mMTG_Export\obj\Debug\mMTG_Export.dll
+C:\Users\gagan\source\repos\gagan_testClasslibrary\mMTG_Export\mMTG_Export\mMTG_Export\obj\Debug\mMTG_Export.pdb
