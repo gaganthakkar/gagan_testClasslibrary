@@ -6,20 +6,17 @@ using System.Threading.Tasks;
 
 namespace mMTG_Export
 {
-    public class ExportService
+    public class ExportServices
     {
-        //Student student = new Student();
-
-                List<Student> students = new List<Student>
+        List<Employee> employees = new List<Employee>
         {
-            new Student { Id = 1, Name = "John" },
-            new Student { Id = 2, Name = "Doe" }
+            new Employee {Id =  1, Name = "John"},
+            new Employee {Id =  2, Name = "Doe"},
         };
 
     }
 
-
-    public class Student
+    public class Employee
     {
         public int Id { get; set; }
         public string Name { get; set; }
